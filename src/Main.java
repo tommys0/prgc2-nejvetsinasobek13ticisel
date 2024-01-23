@@ -18,7 +18,6 @@ public class Main {
                 nejvetsiSoucin = soucin;
             }
         }
-
         return nejvetsiSoucin;
     }
 
